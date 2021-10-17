@@ -1,4 +1,4 @@
-package org.lokesh;
+package org.lokesh.searching;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

@@ -1,4 +1,4 @@
-package org.lokesh;
+package org.lokesh.reusable;
 
 public class ReusableMethods {
 
